@@ -1,4 +1,3 @@
-import backgroundImage from "./images/background-image.png";
 import neapolitanPizza from "./images/neapolitan-pizza.jpg";
 import marghertiaPizza from "./images/pizza-margherita.jpg";
 import marinaraPizza from "./images/marinara-pizza.jpg";
